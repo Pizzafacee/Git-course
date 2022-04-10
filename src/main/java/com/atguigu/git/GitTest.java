@@ -6,5 +6,6 @@ public class GitTest {
         System.out.println("commit again");
         System.out.println("hello git4");
         System.out.println("hello git5 crush master");
+        System.out.println("hello git5 crush");
     }
 }
